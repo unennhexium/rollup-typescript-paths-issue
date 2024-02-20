@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    //    "baseUrl": "./",
+    "paths": {
+      "custom": [
+        "./custom/index.ts"
+      ]
+    }
+  }
+}
